@@ -12,7 +12,7 @@
         </div>
       </router-link>
 
-      <div class="product-block">
+      <!-- <div class="product-block">
         <div class="product-image">
           <img src="https://via.placeholder.com/200">
         </div>
@@ -20,7 +20,7 @@
           <h4>Product title</h4>
           <span>Rp.100.000</span>
         </div>
-      </div>
+      </div> -->
       
     </div>
   </div>
